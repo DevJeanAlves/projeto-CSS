@@ -1,0 +1,5 @@
+​azul escuro principal #1c0c3f
+azul claro #25cbd3
+verde #3bd42d
+roxo #5e49ff
+cinza #f0f5ff

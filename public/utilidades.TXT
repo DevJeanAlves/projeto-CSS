@@ -1,0 +1,8 @@
+https://www.w3schools.com/ <!--site para consulta de tags-->
+
+<=//=//=//=//=//=//=//=//=//=//=//=//=//=//=//=//=//=//=//=//=>
+
+pesquisar "breakpoints css" para saber tamanhos eexppeecificos
+de  tela.
+
+<=//=//=//=//=//=//=//=//=//=//=//=//=//=//=//=//=//=//=//=//=>
