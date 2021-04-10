@@ -1,7 +1,8 @@
-/*Estilizações Globais*/
-html{
-    height: ;
+/* Estilos globais do site */
+html {
+    height: 100px;
 }
+
 body {
     background-color: #1c0c3f;
     font-family: sans-serif;

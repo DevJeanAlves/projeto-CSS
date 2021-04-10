@@ -1,4 +1,8 @@
-/*estilos relacionados ao  index*/
+/* Estilos da pagina index */
+
 .cover-container figure img {
     width: 100%;
+}
+.video-width {
+    margin: 0px 18px 0px 15px;
 }
