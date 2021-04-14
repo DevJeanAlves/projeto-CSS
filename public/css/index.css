@@ -25,4 +25,11 @@ main section abbr {
     .section-video {
         display: inline-block;
     }
+
+    main .section-azure blockquote {
+        width: 70%;
+        margin: auto;
+        margin-bottom: 25px;
+        text-align: center;
+    }
 }

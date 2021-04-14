@@ -1,0 +1,18 @@
+/*Estilos relacionados a pagina de Devstars*/
+
+.section-table {
+    width: 90%;
+    border: 1px solid #25cbd3;
+    margin: 10px 20px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+
+}
+ main > section table thead {
+     border-bottom: 2px solid #25cbd3;
+ }
+
+ .div-frame-rank {
+margin: auto;
+border: 5px double;
+ }
