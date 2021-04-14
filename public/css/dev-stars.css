@@ -3,15 +3,16 @@
 .section-table {
     width: 90%;
     border: 1px solid #25cbd3;
-    margin: 10px 20px;
+    margin: 10px 10px;
     border-radius: 20px;
     margin-bottom: 20px;
+    padding: 10px;
+
 
 }
- main > section table thead {
-     border-bottom: 2px solid #25cbd3;
- }
+.table-config {
 
+}
  .div-frame-rank {
 margin: auto;
 border: 5px double;
