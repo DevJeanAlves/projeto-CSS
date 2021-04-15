@@ -2,7 +2,7 @@
 
 .section-table {
     width: 90%;
-    border: 1px solid #25cbd3;
+    border: 3px double #25cbd3;
     margin: 10px 10px;
     border-radius: 20px;
     margin-bottom: 20px;
@@ -10,10 +10,21 @@
 
 
 }
-.table-config {
-
+.sub-title-devstar {
+    margin: 20px 20px 40px;
 }
- .div-frame-rank {
-margin: auto;
-border: 5px double;
+
+.th-config {
+    font-weight: bold;
+    display: block;
+    border-bottom: 1px solid #25cbd3;
+    font-size: 2.0em;
+    width: 100%;
+    margin: auto;
+    color: #25cbd3;
+}
+ .div-iframe-rank {
+margin: 30px 10px 10px;
+border: 3px double #25cbd3;
+border-radius: 20px;
  }
